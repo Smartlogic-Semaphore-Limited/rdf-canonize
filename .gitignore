@@ -10,6 +10,7 @@
 .project
 .settings
 .vscode
+.idea
 TAGS
 build
 coverage
